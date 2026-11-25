@@ -1,6 +1,6 @@
 # Centrar ventanas emergentes
 
-Userscript para Violentmonkey en Firefox que intenta centrar los cuadros de diálogo que aparecen dentro de una página web. Puede ayudar cuando un diálogo queda fuera del área visible, como ocurrió con el popup de Bitwarden durante una solicitud de llave de acceso.
+Userscript para Violentmonkey en Firefox que intenta centrar los cuadros de diálogo que aparecen dentro de una página web. También puede ayudar cuando un diálogo queda fuera del área visible, como los pop-ups de extensiones.
 
 ## Instalación
 
